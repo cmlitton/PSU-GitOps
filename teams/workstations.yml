@@ -20,7 +20,7 @@ agent_options:
 controls:
   macos_settings:
     custom_settings:
-      - path: ../lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
+      - path: /Users/michael/Documents/GitHub/PSU-GitOps/lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
   macos_updates:
     deadline: "2025-07-30"
     minimum_version: "15.5.1"
